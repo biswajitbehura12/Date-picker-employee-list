@@ -1,0 +1,16 @@
+ .react-datepicker__month-container{
+    background-color: rgb(29, 2, 78);
+ }
+ .react-datepicker__header {
+    
+    background-color: rgba(40, 4, 122, 0.925);
+ }
+ .react-datepicker__day-name ,.react-datepicker__current-month {
+    color: white;
+ }
+ .react-datepicker__day{
+    color:white;
+ }
+.react-datepicker-wrapper{
+    margin-left: 40px;
+}
